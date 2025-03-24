@@ -1,0 +1,39 @@
+# ===================================================================
+# Spring Boot configuration.
+#
+# This configuration will be overridden by the Spring profile you use,
+# for example application-dev.yml if you use the "dev" profile.
+#
+# ===================================================================
+
+
+### server properties
+
+server:
+  servlet:
+    context-path: /restful-web-services
+  
+### application properties
+
+spring:
+  application:
+    name: restful-web-services
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: false
+    properties:
+      hibernate.format_sql: true
+  datasource:
+    url: jdbc:h2:file:./data/restful-web-services
+    username: sa
+    password: 
+    driverClassName: org.h2.Driver
+      
+### logging properties
+
+logging:
+  level:
+    org.springframework: INFO
+  pattern:
+    console: "%d{yyyy-MM-dd} %d{HH:mm:ss.SSS} | %blue(%thread) | %5p | %logger | %m%n"

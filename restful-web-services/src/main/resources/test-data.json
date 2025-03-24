@@ -1,0 +1,137 @@
+[
+  {
+    "businessUnitName": "Software Development",
+    "employees": [
+      {
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "gender": "F",
+        "email": "alice.johnson@users.noreply.github.com",
+        "birthDate": "1990-03-15",
+        "joiningDate": "2015-06-10",
+        "grade": "Developer",
+        "salary": 45000,
+        "employeeProfile": {
+          "address": "New York",
+          "phoneNumber": "987-654-3210"
+        },
+        "projects": [
+          {
+            "name": "E-Commerce Platform"
+          },
+          {
+            "name": "Cloud Migration"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "businessUnitName": "Data Analytics",
+    "employees": [
+      {
+        "firstName": "Bob",
+        "lastName": "Smith",
+        "gender": "M",
+        "email": "bob.smith@users.noreply.github.com",
+        "birthDate": "1985-11-22",
+        "joiningDate": "2012-08-05",
+        "grade": "Lead",
+        "salary": 50000,
+        "employeeProfile": {
+          "address": "San Francisco",
+          "phoneNumber": "456-789-0123"
+        },
+        "projects": [
+          {
+            "name": "Predictive Analytics"
+          },
+          {
+            "name": "AI Chatbot"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "businessUnitName": "Cyber Security",
+    "employees": [
+      {
+        "firstName": "Charlie",
+        "lastName": "Brown",
+        "gender": "M",
+        "email": "charlie.brown@users.noreply.github.com",
+        "birthDate": "1992-07-08",
+        "joiningDate": "2018-03-15",
+        "grade": "Developer",
+        "salary": 40000,
+        "employeeProfile": {
+          "address": "Chicago",
+          "phoneNumber": "321-654-9870"
+        },
+        "projects": [
+          {
+            "name": "Network Defense"
+          },
+          {
+            "name": "Threat Detection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "businessUnitName": "Product Management",
+    "employees": [
+      {
+        "firstName": "David",
+        "lastName": "Williams",
+        "gender": "M",
+        "email": "david.williams@users.noreply.github.com",
+        "birthDate": "1988-12-19",
+        "joiningDate": "2014-09-25",
+        "grade": "Developer",
+        "salary": 60000,
+        "employeeProfile": {
+          "address": "Los Angeles",
+          "phoneNumber": "789-123-4560"
+        },
+        "projects": [
+          {
+            "name": "SaaS Dashboard"
+          },
+          {
+            "name": "Mobile App UX"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "businessUnitName": "Cloud Infrastructure",
+    "employees": [
+      {
+        "firstName": "Emma",
+        "lastName": "Taylor",
+        "gender": "F",
+        "email": "emma.taylor@users.noreply.github.com",
+        "birthDate": "1995-05-27",
+        "joiningDate": "2020-01-15",
+        "grade": "Architect",
+        "salary": 55000,
+        "employeeProfile": {
+          "address": "Seattle",
+          "phoneNumber": "159-753-4862"
+        },
+        "projects": [
+          {
+            "name": "Kubernetes Deployment"
+          },
+          {
+            "name": "CI/CD Automation"
+          }
+        ]
+      }
+    ]
+  }
+]

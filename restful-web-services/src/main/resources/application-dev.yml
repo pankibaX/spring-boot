@@ -1,0 +1,11 @@
+# ===================================================================
+# Spring Boot configuration for the "dev" profile.
+#
+# This configuration overrides the application.yml file.
+#
+# ===================================================================
+
+### server properties
+
+server:
+  port: 8080
