@@ -9,7 +9,7 @@
 		<version>3.3.9</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.barvepan</groupId>
+	<groupId>com.pankiba</groupId>
 	<artifactId>restful-web-services</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>restful-web-services</name>
