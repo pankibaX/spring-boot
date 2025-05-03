@@ -48,3 +48,4 @@ out/
 # H2 database
 data/
 /.metadata/
+async-demo/.gitattributes
