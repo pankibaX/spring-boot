@@ -6,6 +6,9 @@ import org.springframework.core.env.Environment;
 
 import com.pankiba.restfulwebservices.util.ApplicationUtils;
 
+/**
+* Test comment added from GIT
+*/
 @SpringBootApplication
 public class RestfulWebServicesApplication {
 
